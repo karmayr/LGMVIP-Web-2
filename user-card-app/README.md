@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+- Made a react app which hits a Api and displays the received data
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
